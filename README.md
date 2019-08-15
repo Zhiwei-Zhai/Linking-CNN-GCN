@@ -9,8 +9,9 @@ pip install -r requirements.txt
 ```
 
 <div align="center">
-    <img src="fig/CT_3D.png" width="40%" height="50%"/>
-	<img src="fig/AV_3D.png" width="40%" height="50%"/>
+    <img src="fig/CT_3D.png" width="30%" height="50%"/>
+    <img src="fig/AV_vessel_3D.png" width="30%" height="50%"/>
+    <img src="fig/AV_3D.png" width="30%" height="50%"/>
     <br>  
     <em align="center">Fig 1: A 3D visualization of pulmonary artery-vein separation.</em>  
 </div>
