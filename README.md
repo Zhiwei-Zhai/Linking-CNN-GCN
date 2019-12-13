@@ -21,9 +21,9 @@ If you use the software, you should reference the following paper:
 @inproceedings{zhai2018pulmonary,
   title={Linking convolutional neural networks with graph convolutional networks: application in pulmonary artery-vein separation},  
   author={Zhai, Zhiwei and Staring, Marius and Zhou, Xuhui and Xie, Qiuxia and Xiao, xiaojuan and Bakker, M. Els and Kroft, Lucia J. and Lelieveldt, Boudewijn P.F. and Boon, Gudula J.A.M. and Klok, Frederikus A. and Stoel, Berend C},  
-  booktitle={1st International Workshop on Graph Learning in Medical Image (GLMI 2019)},  
-  pages={1--8},  
+  booktitle={Graph Learning in Medical Imaging},
+  pages={36--43},  
   year={2019},  
-  organization={Springer}
+  publisher={Springer International Publishing},
 }
 ```
